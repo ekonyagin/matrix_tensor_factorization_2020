@@ -1,1 +1,2 @@
-# matrix_tensor_factorization_2020
+# Matrix & tensor factorization Course 2020
+## Final project
